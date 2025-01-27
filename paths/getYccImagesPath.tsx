@@ -547,6 +547,8 @@ export const getImagesByCategory = (yccCatId: string) => {
             'https://aidres.com/gallery/yangchenchen2/yangchenchen_8a708d2261b32397e9e11eca1e0aa5fb.jpg',
             'https://aidres.com/gallery/yangchenchen2/yangchenchen_8b03340cc26d975462b4de76a57b4998.webp',
             'https://aidres.com/gallery/yangchenchen2/yangchenchen_8bea8a7c10ceb4fa04a200f898953fac.jpg',
+            'https://aidres.com/gallery/ai/sunyunzhu_a7c5ae482725ca9da129008722491a2b.webp',
+            'https://aidres.com/gallery/ai/3cb22ab4eb3a95ba591661b6b37867ab.jpg',
             'https://aidres.com/gallery/yangchenchen2/yangchenchen_8c832d475afeecbac6c04b8d8922e39a.webp',
             'https://aidres.com/gallery/yangchenchen2/yangchenchen_8cde305809c57d86138b9acc74a0ed0d.jpg',
             'https://aidres.com/gallery/yangchenchen2/yangchenchen_8f7d75477988a978af02a25c6a22934b.webp',
